@@ -1,3 +1,2 @@
 # desenvolve-introducao-web.
-Cidade - Projeto Desenvolve - Itabira
-PDITA - 339
+Cidade - Projeto Desenvolve - Itabira - PD339
